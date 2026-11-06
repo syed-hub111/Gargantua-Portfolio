@@ -1,18 +1,19 @@
 export const PERSONAL_INFO = {
   name: 'SYED SAMEER S',
-  role: 'Mobile & Web App Developer',
-  tagline: 'Computer Science Engineering student crafting intuitive cross-platform mobile apps and scalable MERN full-stack web platforms.',
+  role: 'Software Developer | MERN & Flutter',
+  fullRoleTitle: 'Software Developer | MERN Stack Developer | Flutter App Developer | 3D Web Developer | Freelance Web & App Developer',
+  tagline: 'Computer Science and Engineering student crafting scalable MERN full-stack platforms, cross-platform Flutter apps, and interactive 3D WebGL experiences.',
   phone: '+91 9962033058',
   email: 'sameeraalimec786@gmail.com',
   github: 'https://github.com/syed-hub111',
   linkedin: 'https://www.linkedin.com/in/syedsameers2006/',
   resumeUrl: '/resume.pdf',
-  location: 'Avadi, Chennai – 55 • Open to Remote',
-  status: 'Seeking Software Development Opportunities',
+  location: 'Chennai, Tamil Nadu, India',
+  status: 'Open for Software Developer, App Developer & MERN Roles',
   bio: [
-    'Computer Science Engineering student with hands-on experience in mobile and full-stack web development. Skilled in Flutter, Firebase, MERN stack technologies, Python, and front-end development.',
-    'Interested in building practical applications, solving real-world problems, and continuously learning modern technologies. Seeking opportunities to apply technical skills in a professional software development environment.',
-    'Awarded 2nd Runner-Up at Impact-a-thon X AMS’25 for building Career Clarity Companion (C³), bridging Google Gemini AI with cross-platform Flutter engineering.'
+    'Computer Science and Engineering student and Software Developer with hands-on experience in full-stack web development (MERN Stack: MongoDB, Express.js, React.js, Node.js), cross-platform mobile app development (Flutter, Dart, Firebase), and interactive 3D web development (Three.js, WebGL, GSAP).',
+    'Experienced in building REST APIs, JWT authentication, role-based access control, and scalable database-driven applications using TypeScript, JavaScript, Python, and SQL. Built end-to-end applications, including an award-winning AI-integrated mobile app.',
+    'Recognized as 2nd Runner-Up (3rd Place) at Impact-a-thon X AMS’25 for Career Clarity Companion (C³), bridging Google Gemini AI with cross-platform Flutter engineering.'
   ],
   education: {
     college: 'Aalim Muhammed Salegh College of Engineering',
@@ -154,31 +155,31 @@ export const SKILL_CATEGORIES = [
     name: 'Programming Languages',
     tag: 'Core Languages',
     color: '#38bdf8',
-    skills: ['Python', 'JavaScript', 'C', 'HTML5', 'CSS3', 'Dart', 'TypeScript', 'C++', 'Java']
+    skills: ['Python', 'JavaScript (ES6+)', 'TypeScript', 'Dart', 'SQL', 'C', 'HTML5', 'CSS3']
   },
   {
-    name: 'Frameworks & Technologies',
-    tag: 'Mobile & Web Platforms',
+    name: 'Web & 3D Development',
+    tag: 'MERN & Interactive 3D Web',
     color: '#a855f7',
-    skills: ['Flutter', 'React.js', 'Node.js', 'Express.js', 'MERN Stack', 'Firebase']
+    skills: ['MERN Stack', 'React.js', 'Node.js', 'Express.js', 'Three.js', 'WebGL', 'GSAP', 'Tailwind CSS']
   },
   {
-    name: 'Databases & APIs',
-    tag: 'Data Persistence & Integration',
+    name: 'Mobile Development',
+    tag: 'Cross-Platform & State Mgmt',
     color: '#10b981',
-    skills: ['MongoDB', 'Cloud Firestore', 'REST APIs', 'Database Design', 'SQL', 'PostgreSQL', 'Prisma ORM']
+    skills: ['Flutter', 'Dart', 'Cross-Platform App Dev', 'Provider', 'Bloc', 'Riverpod', 'Firebase Services']
   },
   {
-    name: 'Developer Tools',
-    tag: 'Workflow & Version Control',
+    name: 'Backend & Databases',
+    tag: 'Data Persistence & Security',
     color: '#f59e0b',
-    skills: ['Git', 'GitHub', 'VS Code', 'Postman', 'Vite']
+    skills: ['MongoDB', 'MySQL', 'PostgreSQL', 'Cloud Firestore', 'Firebase Auth', 'JWT Authentication', 'RESTful APIs']
   },
   {
-    name: 'Core Skills',
-    tag: 'Leadership & Engineering Mindset',
+    name: 'Tools & Core Skills',
+    tag: 'Ecosystem & Leadership',
     color: '#ec4899',
-    skills: ['Problem Solving', 'Leadership', 'Creative Thinking', 'Event Management']
+    skills: ['Git', 'GitHub', 'Gemini API Integration', 'Problem Solving', 'Leadership', 'Creative Thinking', 'Event Management']
   }
 ];
 
